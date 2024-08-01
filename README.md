@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning schedule
 - 💞️ I’m looking to someone to help me developing my ability
 - 📫 How to reach me ...
-- I´m 18 year old and I´m student
+- I´m 42 student
 
 <!---
 flaviogonca/flaviogonca is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
