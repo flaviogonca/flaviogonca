@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @flaviogonca
+- 👋 Hi, I’m @FlavioGoncalves
 - 👀 I’m interested in comtuputer sciece
+- 💻 I like to code
 - 🌱 I’m currently learning schedule
-- 💞️ I’m looking to someone to help me developing my ability
 - 📫 How to reach me ...
 - I´m 42 student
 
