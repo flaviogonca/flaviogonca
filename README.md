@@ -1,5 +1,4 @@
-
-  ![gift](https://github.com/user-attachments/assets/1d21b9b1-d6f6-4a79-821d-83313f8a9465)
+![gift2](https://github.com/user-attachments/assets/a30ad92b-5640-4066-9aeb-3fdf25a29425)
 
 - # 👋 Hi, I’m @Flavio Malungo Goncalves
 - 👀 I’m interested in comtuputer sciece
