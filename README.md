@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @Flavio Malungo Goncalves
+
+  ![gift](https://github.com/user-attachments/assets/1d21b9b1-d6f6-4a79-821d-83313f8a9465)
+
+- # 👋 Hi, I’m @Flavio Malungo Goncalves
 - 👀 I’m interested in comtuputer sciece
 - 💻 I like to code
 - 🎷 I also Know how to play some musical instruments 🥁
